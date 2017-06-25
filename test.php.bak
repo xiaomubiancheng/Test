@@ -1,4 +1,4 @@
 <?php 
 echo 'php ';
-echo 'i can'y';
+echo '这是怎么回事';
 ?>
